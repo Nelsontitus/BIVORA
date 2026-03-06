@@ -283,7 +283,7 @@ function Footer({ go }) {
             </p>
           </div>
 
-          <div>
+          ~ 
             <h4
               style={{
                 fontFamily: F.b,
@@ -363,8 +363,8 @@ function Footer({ go }) {
             >
               Contact
             </h4>
-            <p style={{ fontFamily: F.b, fontSize: 13, marginBottom: 6 }}>hello@bivora.co.uk</p>
-            <p style={{ fontFamily: F.b, fontSize: 13 }}>England & Wales</p>
+            <p style={{ fontFamily: F.b, fontSize: 13, marginBottom: 6 }}>stacey@bivora.co.uk</p>
+            <p style={{ fontFamily: F.b, fontSize: 13 }}>+44 7477158745</p>
           </div>
         </div>
 
@@ -1032,7 +1032,6 @@ function Book() {
           </Reveal>
         </Wrap>
       </Sec>
-
       <Sec>
         <Wrap>
           <div style={{ background: C.card, border: `1px solid ${C.border}`, padding: 28 }}>
